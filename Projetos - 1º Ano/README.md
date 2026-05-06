@@ -15,7 +15,7 @@ Todos os exercícios do primeiro ano foram realizados em C.
 ### 🔹 Algoritmia e Introdução à Programação
 
 * Exercício 01 - 07 -- Algoritmia.
-* Exercício 08 - 16 -- Instrução de sseleção simples.
+* Exercício 08 - 16 -- Instrução de seleção simples.
 * Exercício 17 - 20 -- Instruções de decisão multiplas.
 
 ---
