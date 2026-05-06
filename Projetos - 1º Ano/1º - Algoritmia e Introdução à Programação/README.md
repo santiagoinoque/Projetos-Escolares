@@ -1,65 +1,55 @@
-# Exercícios de Programação - Módulo 1
+# Programação - Módulo 1
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/santiagoinoque/Projetos-Escolares/tree/main?tab=MIT-1-ov-file)
 
 ## 📌 Sobre
 
-Este repositório contém um conjunto de exercícios desenvolvidos no âmbito do primeiro módulo da disciplina de Programação.
+Este repositório contém exercícios desenvolvidos no âmbito do módulo de **Introdução à Programação e Algoritmia** do curso Técnico de Gestão e Programação de Sistemas Informáticos.
 
-Os exercícios têm como objetivo aplicar conceitos fundamentais como:
-
-* operações matemáticas
-* manipulação de dados
-* estruturas básicas
-* resolução de problemas do mundo real
-
-Todos os programas foram desenvolvidos individualmente por mim, com base nos enunciados fornecidos em contexto académico.
+Os exercícios estão organizados por tópicos, acompanhando a evolução dos conceitos ao longo do módulo.
 
 ---
 
-## 📂 Exercícios
+## 📂 Estrutura dos Exercícios
 
-### 🔹 Exercício 1 - Tempo de Upload
+### 🔹 Algoritmia (Exercícios 1 a 7)
 
-Cálculo do tempo necessário para enviar uma imagem pela Internet, tendo em conta o tamanho do ficheiro e a velocidade de transmissão.
+Exercícios focados em lógica básica, cálculos e resolução de problemas simples.
 
----
-
-### 🔹 Exercício 2 - Lago em Semicírculo
-
-Determinação do raio máximo de um lago em forma de meio círculo, com base no comprimento disponível para a cerca.
-
----
-
-### 🔹 Exercício 3 - Reservatório de Água
-
-Cálculo da duração (em dias) de um reservatório cilíndrico, considerando o consumo diário de água de uma habitação.
+* Exercício 01 - Tempo de upload de ficheiros
+* Exercício 02 - Cálculo do raio de um lago
+* Exercício 03 - Capacidade de um reservatório
+* Exercício 04 - Cálculo de nota mínima
+* Exercício 05 - Conversão de tempo
+* Exercício 06 - Distância percorrida
+* Exercício 07 - Consumo de combustível
 
 ---
 
-### 🔹 Exercício 4 - Nota Mínima
+### 🔹 Instruções de Seleção Simples (Exercícios 8 a 16)
 
-Determinação da nota mínima necessária num teste para obter aprovação, tendo em conta pesos e nota já obtida.
+Utilização de estruturas condicionais (`if`, `if-else`) para controlo do fluxo do programa.
 
----
-
-### 🔹 Exercício 5 - Conversão de Tempo
-
-Conversão de um valor em segundos para dias, horas, minutos e segundos.
-
----
-
-## ⭐ Exercícios Extra
-
-### 🔹 Exercício 6 - Distância Percorrida
-
-Cálculo da distância com base na velocidade média e duração do treino.
+* Exercício 08 - Maior valor e divisão
+* Exercício 09 - Classificação de notas
+* Exercício 10 - Calculadora com validação
+* Exercício 11 - Reservatório com validação
+* Exercício 12 - Idade da professora Carolina
+* Exercício 13 - Cálculo de nota mínima (com cenários)
+* Exercício 14 - Regra de Naismith (tempo de percurso)
+* Exercício 15 - Equação do 2º grau
+* Exercício 16 - Conversão para hexadecimal
 
 ---
 
-### 🔹 Exercício 7 - Consumo de Combustível
+### 🔹 Instruções de Decisão Múltipla (Exercícios 17+)
 
-Determinação do número de depósitos necessários para completar uma prova automobilística.
+Utilização da estrutura `switch` para seleção de múltiplos casos.
+
+* Exercício 17 - Calculadora com switch
+* Exercício 18 - Conversão para hexadecimal (switch)
+* Exercício 19 - Cálculo da data seguinte
+* Exercício 20 - Cálculo de estacionamento
 
 ---
 
