@@ -13,9 +13,9 @@ Os exercícios estão organizados por temas, refletindo os diferentes conteúdos
 
 ### 🔹 Algoritmia e Introdução à Programação
 
-* Exercício 01 - 07 - Algoritmia.
-* Exercício 08 - 16 - Instrução de sseleção simples.
-* Exercício 17 - 20 - Instruções de decisão multiplas.
+* Exercício 01 - 07 -- Algoritmia.
+* Exercício 08 - 16 -- Instrução de sseleção simples.
+* Exercício 17 - 20 -- Instruções de decisão multiplas.
 
 ---
 
