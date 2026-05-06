@@ -1,4 +1,4 @@
-# Programação - Módulo 1
+# Programação - Algoritmia e Introdução à Programação
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/santiagoinoque/Projetos-Escolares/tree/main?tab=MIT-1-ov-file)
 
