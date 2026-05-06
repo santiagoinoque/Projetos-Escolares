@@ -1,6 +1,6 @@
 # Projectos - 1º Ano
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]([LICENSE.md](https://github.com/santiagoinoque/Projetos-Escolares/tree/main?tab=MIT-1-ov-file))
 
 ## 📌 Sobre
 
