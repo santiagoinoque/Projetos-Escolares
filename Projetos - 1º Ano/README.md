@@ -6,6 +6,7 @@
 
 Este repositório contém exercícios realizados durante o 1º ano no âmbito da disciplina de programação de sistemas informáticos.
 Os exercícios estão organizados por temas, refletindo os diferentes conteúdos abordados ao longo do ano.
+Todos os exercícios do primeiro ano foram realizados em C.
 
 ---
 
