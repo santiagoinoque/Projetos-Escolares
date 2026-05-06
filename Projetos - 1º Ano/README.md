@@ -1,6 +1,6 @@
 # Projectos - 1º Ano
 
-[License: MIT][https://github.com/santiagoinoque/Projetos-Escolares/tree/main?tab=MIT-1-ov-file]
+[![License: MIT][https://github.com/santiagoinoque/Projetos-Escolares/tree/main?tab=MIT-1-ov-file]]
 
 ## 📌 Sobre
 
