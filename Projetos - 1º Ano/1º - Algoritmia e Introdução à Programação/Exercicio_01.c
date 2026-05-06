@@ -9,6 +9,7 @@ int main()
 	scanf("%d", &kbytes);
 	printf("Indique a velocidade de transmissao (B/s): ");
 	scanf("%d", &veloc);
+	
 	printf("Tempo de upload (s): %.6lf \n\n", (double)kbytes * 1024 / veloc);
 
 	return 0;
