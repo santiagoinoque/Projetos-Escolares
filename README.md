@@ -18,5 +18,5 @@ Este repositório tem fins educativos e de portfólio. O código pode ser consul
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT - ver o ficheiro LICENSE para mais detalhes.
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+Este projeto está sob a licença MIT - ver o ficheiro LICENSE para mais detalhes. 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
