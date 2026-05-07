@@ -42,7 +42,7 @@ Utilização de estruturas condicionais (`if`, `if-else`) para controlo do fluxo
 
 ---
 
-### 🔹 Instruções de Decisão Múltipla (Exercícios 17+)
+### 🔹 Instruções de Decisão Múltipla (Exercícios 17 a 20)
 
 Utilização da estrutura `switch` para seleção de múltiplos casos.
 
