@@ -1,0 +1,20 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+int main() {
+    double velocidade, distancia;
+    int horas, minutos, tempo_seg;
+
+    printf("Indique a velocidade (m/s): ");
+    scanf("%lf", &velocidade);
+
+    printf("Indique a duracao (h m): ");
+    scanf("%d %d", &horas, &minutos);
+
+    tempo_seg = horas * 3600 + minutos * 60;
+    distancia = velocidade * tempo_seg;
+
+    printf("Distancia: %.1lf m\n", distancia);
+
+    return 0;
+}
