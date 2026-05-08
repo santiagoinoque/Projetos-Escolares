@@ -1,18 +1,18 @@
 #define _CRT_SECURE_NO_WARNINGS
+#define _USE_MATH_DEFINES
 #include <stdio.h>
+#include <math.h>
 
-int main() 
-{
-	double cerca, raio;
+int main() {
+    double cerca, raio;
+    double pi = M_PI;
 
-	printf("Comprimento da cerca: ");
-	scanf("%lf", &cerca);
+    printf("Comprimento da cerca: ");
+    scanf("%lf", &cerca);
 
-	cerca *= 100.0;
+    raio = (cerca * 100) / pi;
 
-	raio = cerca / 3.14;
+    printf("Valor do raio: %.2lf cm\n", raio);
 
-	printf("Valor do raio: %.2lf\n\n", raio);
-
-	return 0;
+    return 0;
 }
