@@ -12,11 +12,44 @@ Todos os exercícios do primeiro ano foram realizados em C.
 
 ## 📂 Estrutura dos Exercícios
 
-### 🔹 Algoritmia e Introdução à Programação
+### 🔹 Algoritmia (Exercícios 1 a 7)
 
-* Exercício 01 - 07 -- Algoritmia.
-* Exercício 08 - 16 -- Instrução de seleção simples.
-* Exercício 17 - 20 -- Instruções de decisão multiplas.
+Exercícios focados em lógica básica, cálculos e resolução de problemas simples.
+
+* Exercício 01 - Tempo de upload de ficheiros
+* Exercício 02 - Cálculo do raio de um lago
+* Exercício 03 - Capacidade de um reservatório
+* Exercício 04 - Cálculo de nota mínima
+* Exercício 05 - Conversão de tempo
+* Exercício 06 - Distância percorrida
+* Exercício 07 - Consumo de combustível
+
+---
+
+### 🔹 Instruções de Seleção Simples (Exercícios 8 a 16)
+
+Utilização de estruturas condicionais (`if`, `if-else`) para controlo do fluxo do programa.
+
+* Exercício 08 - Maior valor e divisão
+* Exercício 09 - Classificação de notas
+* Exercício 10 - Calculadora com validação
+* Exercício 11 - Reservatório com validação
+* Exercício 12 - Idade da professora Carolina
+* Exercício 13 - Cálculo de nota mínima (com cenários)
+* Exercício 14 - Regra de Naismith (tempo de percurso)
+* Exercício 15 - Equação do 2º grau
+* Exercício 16 - Conversão para hexadecimal
+
+---
+
+### 🔹 Instruções de Decisão Múltipla (Exercícios 17 a 20)
+
+Utilização da estrutura `switch` para seleção de múltiplos casos.
+
+* Exercício 17 - Calculadora com switch
+* Exercício 18 - Conversão para hexadecimal (switch)
+* Exercício 19 - Cálculo da data seguinte
+* Exercício 20 - Cálculo de estacionamento
 
 ---
 
