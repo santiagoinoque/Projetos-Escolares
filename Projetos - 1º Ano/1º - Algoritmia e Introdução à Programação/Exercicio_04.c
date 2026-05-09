@@ -8,7 +8,6 @@ int main()
 
     printf("Indique os pesos (P1 P2): ");
     scanf("%d %d", &p1, &p2);
-
     printf("Indique a nota do T1: ");
     scanf("%lf", &n1);
 
