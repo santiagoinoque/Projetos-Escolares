@@ -7,7 +7,6 @@ int main() {
 
     printf("Indique a velocidade (m/s): ");
     scanf("%lf", &velocidade);
-
     printf("Indique a duracao (h m): ");
     scanf("%d %d", &horas, &minutos);
 
