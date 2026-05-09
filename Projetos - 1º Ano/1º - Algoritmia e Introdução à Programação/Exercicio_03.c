@@ -14,7 +14,7 @@ int main()
 
     raio = diametro / 2;
     volume = pi * (raio * raio) * altura / 1000;
-    dias = volume / (185 * 3);
+    dias = volume / 555;
 
     printf("Dias de abastecimento: %.2f\n", dias);
 
