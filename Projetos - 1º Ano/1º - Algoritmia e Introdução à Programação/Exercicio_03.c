@@ -9,7 +9,6 @@ int main()
 
     printf("Indique a altura do reservatorio: ");
     scanf("%lf", &altura);
-
     printf("Indique o diametro da base: ");
     scanf("%lf", &diametro);
 
