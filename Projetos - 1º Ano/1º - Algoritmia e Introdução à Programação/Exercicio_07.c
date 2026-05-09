@@ -7,13 +7,10 @@ int main() {
 
     printf("Comprimento da pista (m): ");
     scanf("%d", &pista);
-
     printf("Numero de voltas: ");
     scanf("%d", &voltas);
-
     printf("Consumo medio (L/100km): ");
     scanf("%d", &consumo);
-
     printf("Capacidade do deposito (L): ");
     scanf("%d", &capacidade);
 
