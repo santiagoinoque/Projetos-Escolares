@@ -8,6 +8,7 @@ int main()
 
     printf("Operacao: ");
     scanf("%c", &caracter);
+    
     if (caracter != '+' && caracter != '-' && caracter != '/' && caracter != '*') {
         puts("Caracter Invalido!");
     }
