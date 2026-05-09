@@ -19,7 +19,7 @@ int main() {
     }
 
     printf("Maior valor: %d\n", maior);
-    printf("Div. Real: %.1lf\n", (double)maior / menor);
+    printf("Div. Real: %.1lf\n", .0 * maior / menor);
 
     return 0;
 }
