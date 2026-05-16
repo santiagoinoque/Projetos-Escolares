@@ -10,7 +10,7 @@ Projeto desenvolvido individualmente por Santiago Inoque.
 ## ⚙️ Tecnologias utilizadas
 
 * Linguagem: C / C#
-* Ferramenta Utiliazda: Visual Studio 2007, Visual Studio 2018.
+* Ferramenta Utiliazda: Visual Studio 2010, Visual Studio 2022.
 
 ## 📖 Notas
 
